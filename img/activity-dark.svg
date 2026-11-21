@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="Commits per month by project, 2026-05 to 2026-11" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="760" height="330" fill="#0d1117"/>
+<text x="52" y="22" font-size="15" font-weight="600" fill="#f0efec">Commits per month, by project</text>
+<rect x="52" y="36" width="10" height="10" rx="2" fill="#3987e5"/>
+<text x="67" y="45" font-size="12" fill="#c3c2b7">Orrery</text>
+<rect x="124.6" y="36" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="139.6" y="45" font-size="12" fill="#c3c2b7">Knowledge Library</text>
+<rect x="269.79999999999995" y="36" width="10" height="10" rx="2" fill="#199e70"/>
+<text x="284.79999999999995" y="45" font-size="12" fill="#c3c2b7">Provision</text>
+<rect x="362.19999999999993" y="36" width="10" height="10" rx="2" fill="#c98500"/>
+<text x="377.19999999999993" y="45" font-size="12" fill="#c3c2b7">Creation</text>
+<rect x="447.99999999999994" y="36" width="10" height="10" rx="2" fill="#d55181"/>
+<text x="462.99999999999994" y="45" font-size="12" fill="#c3c2b7">Definition</text>
+<line x1="52" x2="744" y1="290.0" y2="290.0" stroke="#383835" stroke-width="1"/>
+<text x="44" y="294.0" font-size="11" text-anchor="end" fill="#c3c2b7">0</text>
+<line x1="52" x2="744" y1="233.5" y2="233.5" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="237.5" font-size="11" text-anchor="end" fill="#c3c2b7">500</text>
+<line x1="52" x2="744" y1="177.0" y2="177.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="181.0" font-size="11" text-anchor="end" fill="#c3c2b7">1,000</text>
+<line x1="52" x2="744" y1="120.5" y2="120.5" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="124.5" font-size="11" text-anchor="end" fill="#c3c2b7">1,500</text>
+<line x1="52" x2="744" y1="64.0" y2="64.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="44" y="68.0" font-size="11" text-anchor="end" fill="#c3c2b7">2,000</text>
+<rect x="73.4" y="276.2" width="56.0" height="11.8" fill="#c98500"><title>Creation: 122</title></rect>
+<path d="M73.4,276.2 V270.6 Q73.4,266.6 77.4,266.6 H125.4 Q129.4,266.6 129.4,270.6 V276.2 Z" fill="#d55181"><title>Definition: 85</title></path>
+<text x="101.4" y="260.6" font-size="11" text-anchor="middle" fill="#f0efec">207</text>
+<text x="101.4" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">May 2026</text>
+<rect x="172.3" y="280.8" width="56.0" height="7.2" fill="#199e70"><title>Provision: 81</title></rect>
+<rect x="172.3" y="233.2" width="56.0" height="45.7" fill="#c98500"><title>Creation: 422</title></rect>
+<path d="M172.3,233.2 V232.9 Q172.3,228.9 176.3,228.9 H224.3 Q228.3,228.9 228.3,232.9 V233.2 Z" fill="#d55181"><title>Definition: 38</title></path>
+<text x="200.3" y="222.9" font-size="11" text-anchor="middle" fill="#f0efec">541</text>
+<text x="200.3" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Jun</text>
+<rect x="271.1" y="270.6" width="56.0" height="17.4" fill="#3987e5"><title>Orrery: 172</title></rect>
+<rect x="271.1" y="245.7" width="56.0" height="22.9" fill="#199e70"><title>Provision: 220</title></rect>
+<rect x="271.1" y="215.1" width="56.0" height="28.6" fill="#c98500"><title>Creation: 271</title></rect>
+<path d="M271.1,215.1 V214.0 Q271.1,210.0 275.1,210.0 H323.1 Q327.1,210.0 327.1,214.0 V215.1 Z" fill="#d55181"><title>Definition: 45</title></path>
+<text x="299.1" y="204.0" font-size="11" text-anchor="middle" fill="#f0efec">708</text>
+<text x="299.1" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Jul</text>
+<rect x="370.0" y="274.6" width="56.0" height="13.4" fill="#3987e5"><title>Orrery: 136</title></rect>
+<rect x="370.0" y="259.9" width="56.0" height="12.7" fill="#199e70"><title>Provision: 130</title></rect>
+<rect x="370.0" y="234.1" width="56.0" height="23.9" fill="#c98500"><title>Creation: 229</title></rect>
+<path d="M370.0,234.1 V232.3 Q370.0,228.3 374.0,228.3 H422.0 Q426.0,228.3 426.0,232.3 V234.1 Z" fill="#d55181"><title>Definition: 51</title></path>
+<text x="398.0" y="222.3" font-size="11" text-anchor="middle" fill="#f0efec">546</text>
+<text x="398.0" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Aug</text>
+<rect x="468.9" y="284.9" width="56.0" height="3.1" fill="#3987e5"><title>Orrery: 45</title></rect>
+<rect x="468.9" y="284.4" width="56.0" height="0.0" fill="#d95926"><title>Knowledge Library: 5</title></rect>
+<rect x="468.9" y="122.0" width="56.0" height="160.4" fill="#199e70"><title>Provision: 1,437</title></rect>
+<rect x="468.9" y="98.4" width="56.0" height="21.6" fill="#c98500"><title>Creation: 209</title></rect>
+<rect x="468.9" y="95.5" width="56.0" height="2.8" fill="#d55181"><title>Definition: 25</title></rect>
+<text x="496.9" y="89.5" font-size="11" text-anchor="middle" fill="#f0efec">1,721</text>
+<text x="496.9" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Sep</text>
+<rect x="567.7" y="246.5" width="56.0" height="41.5" fill="#3987e5"><title>Orrery: 385</title></rect>
+<rect x="567.7" y="218.8" width="56.0" height="25.7" fill="#d95926"><title>Knowledge Library: 245</title></rect>
+<rect x="567.7" y="189.1" width="56.0" height="27.7" fill="#199e70"><title>Provision: 263</title></rect>
+<rect x="567.7" y="181.0" width="56.0" height="6.1" fill="#c98500"><title>Creation: 72</title></rect>
+<path d="M567.7,181.0 V168.3 Q567.7,164.3 571.7,164.3 H619.7 Q623.7,164.3 623.7,168.3 V181.0 Z" fill="#d55181"><title>Definition: 147</title></path>
+<text x="595.7" y="158.3" font-size="11" text-anchor="middle" fill="#f0efec">1,112</text>
+<text x="595.7" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Oct</text>
+<rect x="666.6" y="282.2" width="56.0" height="5.8" fill="#3987e5"><title>Orrery: 69</title></rect>
+<rect x="666.6" y="281.6" width="56.0" height="0.0" fill="#d95926"><title>Knowledge Library: 5</title></rect>
+<rect x="666.6" y="263.4" width="56.0" height="16.2" fill="#199e70"><title>Provision: 161</title></rect>
+<rect x="666.6" y="258.4" width="56.0" height="3.1" fill="#c98500"><title>Creation: 45</title></rect>
+<path d="M666.6,258.4 V253.7 Q666.6,249.7 670.6,249.7 H718.6 Q722.6,249.7 722.6,253.7 V258.4 Z" fill="#d55181"><title>Definition: 77</title></path>
+<text x="694.6" y="243.7" font-size="11" text-anchor="middle" fill="#f0efec">357</text>
+<text x="694.6" y="308" font-size="11" text-anchor="middle" fill="#c3c2b7">Nov (to 21)</text>
+</svg>
