@@ -1,8 +1,8 @@
 {
  "since": "2025-11-21",
  "through": "2026-11-21",
- "commits": 5192,
- "aiCoAuthored": 3296,
+ "commits": 5212,
+ "aiCoAuthored": 3309,
  "months": [
   "2026-05",
   "2026-06",
@@ -14,7 +14,7 @@
  ],
  "byProject": {
   "Orrery": {
-   "commits": 807,
+   "commits": 820,
    "repos": 4,
    "months": [
     0,
@@ -23,7 +23,7 @@
     136,
     45,
     385,
-    69
+    82
    ]
   },
   "Knowledge Library": {
@@ -40,8 +40,8 @@
    ]
   },
   "Provision": {
-   "commits": 2292,
-   "repos": 35,
+   "commits": 2289,
+   "repos": 32,
    "months": [
     0,
     81,
@@ -49,20 +49,20 @@
     130,
     1437,
     263,
-    161
+    158
    ]
   },
   "Creation": {
-   "commits": 1370,
-   "repos": 10,
+   "commits": 1036,
+   "repos": 9,
    "months": [
     122,
-    422,
-    271,
-    229,
-    209,
-    72,
-    45
+    357,
+    107,
+    168,
+    169,
+    61,
+    52
    ]
   },
   "Definition": {
@@ -76,6 +76,19 @@
     25,
     147,
     77
+   ]
+  },
+  "Commons": {
+   "commits": 344,
+   "repos": 4,
+   "months": [
+    0,
+    65,
+    164,
+    61,
+    40,
+    11,
+    3
    ]
   }
  }

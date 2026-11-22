@@ -2,27 +2,28 @@
 
 **Systems integrator. I've worked on rockets, aircraft and robots; now I build and connect AI systems for businesses.**
 
-I am building a personal AI system unique to me, and a skeleton anyone can use to build their own. It has five major projects: **the Orrery**, which oversees the whole system; **the Knowledge Library**, its memory; and three areas of my life, each with its own AI boss agent: **Provision** (how I make a living), **Creation** (what I make for love) and **Definition** (who I am to other people).
+I am building a personal AI system unique to me, and a skeleton anyone can use to build their own. It has five major projects: **the Orrery**, which oversees the whole system; **the Knowledge Library**, its memory; and three areas of my life, each with its own AI boss agent: **Provision** (how I make a living), **Creation** (what I make for love) and **Definition** (who I am to other people). Underneath all five sits **Commons**, the shared machinery they all use.
 
 ## My work, measured
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/activity-dark.svg">
-  <img alt="Commits per month by project, May to November 2026: 5,192 in all. Provision 2,292, Creation 1,370, Orrery 807, Definition 468, Knowledge Library 255. The full numbers are in the table below." src="img/activity-light.svg">
+  <img alt="Commits per month by project, May to November 2026: 5,212 in all. Provision 2,289, Creation 1,036, Orrery 820, Definition 468, Commons 344, Knowledge Library 255. The full numbers are in the table below." src="img/activity-light.svg">
 </picture>
 
-5,192 commits from May to November 2026 across my repositories, counted from git and not estimated. Each commit is counted once, even when the same repository is cloned in several places. Most of these repositories are private, so the counts are shown here; the code is not.
+5,212 commits from May to November 2026 across my repositories, counted from git and not estimated. Each commit is counted once, even when the same repository is cloned in several places. Most of these repositories are private, so the counts are shown here; the code is not.
 
 | Project | May | Jun | Jul | Aug | Sep | Oct | Nov | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Orrery | 0 | 0 | 172 | 136 | 45 | 385 | 69 | 807 |
+| Orrery | 0 | 0 | 172 | 136 | 45 | 385 | 82 | 820 |
 | Knowledge Library | 0 | 0 | 0 | 0 | 5 | 245 | 5 | 255 |
-| Provision | 0 | 81 | 220 | 130 | 1,437 | 263 | 161 | 2,292 |
-| Creation | 122 | 422 | 271 | 229 | 209 | 72 | 45 | 1,370 |
+| Provision | 0 | 81 | 220 | 130 | 1,437 | 263 | 158 | 2,289 |
+| Creation | 122 | 357 | 107 | 168 | 169 | 61 | 52 | 1,036 |
 | Definition | 85 | 38 | 45 | 51 | 25 | 147 | 77 | 468 |
-| **All** | 207 | 541 | 708 | 546 | 1,721 | 1,112 | 357 | **5,192** |
+| Commons | 0 | 65 | 164 | 61 | 40 | 11 | 3 | 344 |
+| **All** | 207 | 541 | 708 | 546 | 1,721 | 1,112 | 377 | **5,212** |
 
-**How these commits are made:** I direct AI coding agents (Claude Code and Codex). I write the specifications, decide what ships, and check the work with tests and reviews. 3,296 of the 5,192 commits (63%) carry an AI co-author line. The [build method](https://github.com/sorry2befrank/portfolio/blob/main/work/build-method.md) explains how this works.
+**How these commits are made:** I direct AI coding agents (Claude Code and Codex). I write the specifications, decide what ships, and check the work with tests and reviews. 3,309 of the 5,212 commits (63%) carry an AI co-author line. The [build method](https://github.com/sorry2befrank/portfolio/blob/main/work/build-method.md) explains how this works.
 
 ## The Orrery
 
@@ -38,7 +39,7 @@ The Orrery is the control room I built to run a one-person AI operation. It maps
 
 Honest limit: the unattended repair lane is built and guarded, but across 35 attempts it has not yet landed a verified repair.
 
-**Commit activity:** 807 unique commits across all branches, July to November 2026, in 4 repositories, none of them public (Orrery 588, Voyage 134, VR edition 74, workspace 11). 622 carry an AI co-author trailer. October was the busiest month, with 385. The case studies count the live branch only, so their numbers are lower.
+**Commit activity:** 820 unique commits across all branches, July to November 2026, in 4 repositories, none of them public (Orrery 601, Voyage 134, VR edition 74, workspace 11). 635 carry an AI co-author trailer. October was the busiest month, with 385. The case studies count the live branch only, so their numbers are lower.
 
 ## The Knowledge Library
 
@@ -68,7 +69,7 @@ Provision is how I make a living: the consulting business, its tools, and the en
 - **Sachiel**: an options scanner with charts, a trade journal with a Bayesian learning loop, paper trades and a backtest engine. *Paused.*
 - **This portfolio**: the case studies and one-page site that document this work. *Live.* [Repository](https://github.com/sorry2befrank/portfolio) · [site](https://sorry2befrank.github.io/portfolio/)
 
-**Commit activity:** 2,292 commits from June to November 2026 across 35 repositories, mostly private. 1,678 of them are one client's matching app, and 1,437 landed in September. 1,210 carry an AI co-author trailer, and 305 exist only in local repositories (never pushed).
+**Commit activity:** 2,289 commits from June to November 2026 across 32 repositories, mostly private. 1,678 of them are one client's matching app, and 1,437 landed in September. 1,209 carry an AI co-author trailer, and 150 exist only in local repositories (never pushed).
 
 ## Creation
 
@@ -81,13 +82,12 @@ What I would do for free: the Three Mountaintops books and the platform, studio 
 - **Three Mountaintops World**: the platform for my four-book series. It has a reading site and living codex, 6 public films, a gallery of 325 art entries and the Lane merch shop, with checkout on Fourthwall. Live at [threemountaintops.world](https://threemountaintops.world). [Case study](https://github.com/sorry2befrank/portfolio/blob/main/work/three-mountaintops-world.md)
 - **The Path**: a Godot 4.6 tactical RPG set in the world, behind an edge gate that checks the signed member cookie. Member-gated; the free public beta ended 2026-10-16. [The game](https://github.com/sorry2befrank/portfolio/blob/main/work/three-mountaintops-world.md#the-path-the-game)
 - **The Studio**: my trailer and film desk. Story goes to shots and takes, each model's cost shows before you generate, and every character has one approved anchor image that other views are judged against. Running, local-only. [Production studio](https://github.com/sorry2befrank/portfolio/blob/main/work/production-studio.md)
-- **Campaign engine**: drafts one post per platform each day into an approval queue, checks drafts against the canon, syncs merch and creates every ad paused. Built. Only Bluesky can post on its own, and only when armed; everything else waits for review. [How it works](https://github.com/sorry2befrank/portfolio/blob/main/work/three-mountaintops-world.md#the-campaign-engine-posting-without-losing-control)
 - **Authors Codex**: a private workspace for novelists. Authors are kept apart by the database schema itself: 21 tables, all with row-level security. Live at [authors-codex.vercel.app](https://authors-codex.vercel.app). It has no automated tests yet. [Case study](https://github.com/sorry2befrank/portfolio/blob/main/work/authors-codex.md)
 - **Live Presenter**: Markdown slide decks with private notes and a clean audience window for Zoom. Running; my class tool since 2026-11-02. [Streams and shorts](https://github.com/sorry2befrank/portfolio/blob/main/work/streams-and-shorts.md#live-presenter)
 - **Stream Hub and the clip pipeline**: one local page that starts and stops my streams and recording through OBS, and a pipeline that cuts a long stream into short vertical clips. Stream Hub has run since 2026-09-28. The clip pipeline is a prototype, proven on one 98-minute stream. A clip uploads only if the approved file still matches its hash. [From stream to clips](https://github.com/sorry2befrank/portfolio/blob/main/work/streams-and-shorts.md#from-stream-to-clips)
 - **Shorts Studio**: turns a script into a vertical short through a content-policy gate, narration and a local ffmpeg render. Built; nine finished shorts are on the Three Mountaintops YouTube channel. [A shorts pipeline](https://github.com/sorry2befrank/portfolio/blob/main/work/production-studio.md#a-shorts-pipeline)
 
-**Commit activity:** 1,370 commits since May 2026 across 10 repositories. All of them are private or kept on my machine, so the history itself is not public. 923 of the commits carry an AI co-author line.
+**Commit activity:** 1,036 commits since May 2026 across 9 repositories. All of them are private or kept on my machine, so the history itself is not public. 647 of the commits carry an AI co-author line. The campaign engine's commits are counted under Commons.
 
 ## Definition
 
@@ -99,6 +99,22 @@ Definition tracks who a person is to other people. In my system it is built as m
 - **Kingdom Within:** the tools behind a research-and-teaching project that spans Definition and Creation. Study notes live in Git, are checked by scripts and exported as one source of truth; Michael can cite an allowlisted, read-only snapshot of them; and a local studio publishes a clip only when the exact approved file still matches its hash. Running. Source and recordings are private. [Case study](https://github.com/sorry2befrank/portfolio/blob/main/work/kingdom-within.md)
 
 **Commit activity:** 468 commits since May 2026 across 6 repositories: five private on GitHub and one kept only on my machine. 379 carry an AI-agent co-author trailer. Busiest month: October 2026, with 147. Some histories start late (Michael's begins at an import snapshot), so earlier work does not show.
+
+## Commons
+
+The shared machinery under the other areas. Commons has no boss persona of its own; the bosses and I draw on it as needed.
+
+> the campaign engine is something that everything is using.
+>
+> *Spoken, 2026-11-21.*
+
+- **Campaign engine**: one Express engine that the other areas build on. For Creation it drafts posts into an approval queue (up to one per enabled platform a day), turns new merch into drafts, and creates every ad paused. Nothing posts until it is armed: with the global switch on, the daily Bluesky post (checked against the canon first, a check that is skipped when no AI key is set) and an optional gallery drip to Facebook and Bluesky can post on their own, and a campaign runs on schedule only after it is approved and armed. Everything else waits for review. For Provision it hosts the Understudy founder console and the bid planner and proposal builder behind my consulting work, and it is the backend for client sites, with their bookings and payments. Campaigns and ads have hard budget caps; without credentials every connector runs dry; and every action is written to an audit log that is only ever added to. *Live; the engine is password-protected, and the founder console needs an access code.* [How it works](https://github.com/sorry2befrank/portfolio/blob/main/work/three-mountaintops-world.md#the-campaign-engine-posting-without-losing-control)
+- **Skill library**: 71 skills that my AI coding agents wrote and keep up under a standing rule I set: when we work through a problem, the lesson becomes a skill. They run from verification discipline to media production, with 21 scripts bundled inside them. A hook reminds the agent on every message I send to capture any reusable lesson, so the library grows as I work. *Running, private.* [My own custom skills](https://github.com/sorry2befrank/portfolio/blob/main/work/build-method.md#my-own-custom-skills-and-memory)
+- **Local Computer AI**: a private assistant that runs on my own computer: Llama 3.1 8B (4-bit) with a 64K context, inside its own locked-down Claude Code profile with no MCP servers and no web tools, where secret files and git push and merge are denied. It has three launchers. Assistant can run commands, but only with my approval for each one. The guarded Auto Writer works through a file agent that checks every path, backs up each file before changing it, and has no shell, web or delete tools. Read Only reads. Honest limit: it runs on the CPU, so a first answer or a long task takes a minute or two. *Built, private.*
+- **Developer tools**: phone-preview shows any page the way a phone sees it (an iPhone-sized window, a QR code for a real phone with live reload, an HTTPS tunnel and a WebKit mode). understudy-tools holds my Playwright capture scripts and the image scripts that go with them. *Built.*
+- **Orrery Night**: the only Obsidian customisation I made myself, a CSS snippet layered on a downloaded theme, with callouts coloured by area and a drifting starfield in dark mode. *Running.*
+
+**Commit activity:** 344 commits since June 2026 across 4 repositories, all private; 341 of them are the campaign engine, and 277 carry an AI co-author line. The skill library, the local AI and the capture tools were first put into git in November 2026, so their earlier history does not show.
 
 ## Background
 
