@@ -2,6 +2,15 @@
 
 **Systems integrator. I've worked on rockets, aircraft and robots; now I build and connect AI systems for businesses.**
 
+## AI for local businesses — start here
+
+- **A client repair.** When a workflow failed for customers, I traced the problem to the app’s data and rebuilt the failing step. The owner kept their login and controlled when the fix went live. [Read the case study](https://github.com/sorry2befrank/portfolio/blob/main/work/client-work.md)
+- **A business visit.** Try preparing an owner brief for a fictional bakery. Understudy Audit keeps meeting notes on your device and asks for evidence before a finding goes into the client summary. [Open the demo](https://sorry2befrank.github.io/understudy-audit/audit-app.html)
+- **Classes.** Start with your first AI account in AI Basics, or bring an idea to the 30-Day Workshop and build a tool around it. [See the classes](https://understudy.consulting/)
+- **Engineering details.** Browse the case studies or inspect Knowledge Library, an archive that lets AI assistants retrieve documents with citations. The public release was tested on synthetic data. [Portfolio](https://github.com/sorry2befrank/portfolio) · [Knowledge Library code](https://github.com/sorry2befrank/knowledge-library)
+
+## My personal AI system
+
 I am building a personal AI system unique to me, and a skeleton anyone can use to build their own. It has five major projects: **the Orrery**, which oversees the whole system; **the Knowledge Library**, its memory; and three areas of my life, each with its own AI boss agent: **Provision** (how I make a living), **Creation** (what I make for love) and **Definition** (who I am to other people). Underneath all five sits **Commons**, the shared machinery they all use.
 
 ## My work, measured
