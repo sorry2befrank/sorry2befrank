@@ -46,7 +46,7 @@ The Orrery is the control room I built to run a one-person AI operation. It maps
 - **Voyage**: the public edition, a static 3D site you can fly through, with illustrative data in place of the private system. The build asserts that 18 private paths are absent. *Live* at [voyage.understudy.consulting](https://voyage.understudy.consulting). [Case study](https://github.com/sorry2befrank/portfolio/blob/main/work/voyage.md)
 - **VR edition**: a private WebXR build of the same galaxy for the Meta Quest 3, with a walkable 32-metre glass dome and a walk/fly toggle. *Paused; built and tested in an emulator, not yet on a physical headset.* [The VR edition](https://github.com/sorry2befrank/portfolio/blob/main/work/voyage.md#the-vr-edition-paused)
 
-Honest limit: the unattended repair lane is built and guarded, but across 35 attempts it has not yet landed a verified repair.
+Honest limit: the unattended repair lane is built and guarded, but as of 2026-11-23, across 38 attempts, it has not yet landed a verified repair.
 
 **Commit activity:** 820 unique commits across all branches, July to November 2026, in 4 repositories, none of them public (Orrery 601, Voyage 134, VR edition 74, workspace 11). 635 carry an AI co-author trailer. October was the busiest month, with 385. The case studies count the live branch only, so their numbers are lower.
 
